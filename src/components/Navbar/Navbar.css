@@ -1,7 +1,12 @@
-.navbar{
+.navbar {
     padding: 1.8rem 0;
-    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
-}
+    background: linear-gradient(to right,  #a4b4c6,#e8d4eb, #a4b4c6, rgba(162, 148, 197, 0.664)); 
+    box-shadow: none;
+    position: absolute;
+    width: 100%;
+    z-index: 10;
+    border-radius: 25px;
+  }
 .navbar-brand{
     width: 90px;
 }

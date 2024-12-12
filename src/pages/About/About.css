@@ -1,5 +1,6 @@
 .about{
     padding: 3rem 0;
+    background: linear-gradient(to right,  #a4b4c6,#e8d4eb, #a4b4c6, rgba(209, 199, 234, 0.664));
 }
 .about-content{
     gap: 4rem;
